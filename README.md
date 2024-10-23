@@ -5,6 +5,19 @@
 👨‍💻 Third-year CSE Student @ SVU  |  🌟 Intern @ Synxa IT  | 🔧 Ex-intern @ Codeon  | ☕ Soon-to-be Java Developer @ Infosys |⚡ Frontend Ninja  |  🌐 Backend Explorer |  📈Designer & Developer  |  🚀 GSSOC Contributor | 🐞 Bug Hunter | 💡 Problem-Solving Enthusiast | ❤️ 'Reset. Restart. Refocus.
 <br><br>[![](https://visitcount.itsvg.in/api?id=RAMIREDDYGAYATHRI02&icon=1&color=0)](https://visitcount.itsvg.in)<br><br>
 
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10; align='center'>
+  <img src="https://github.com/RAMIREDDYGAYATHRI02/RAMIREDDYGAYATHRI02/blob/main/Documents/Postman%20Dark.png" width="100px" height="100px" />
+  <img src="https://github.com/RAMIREDDYGAYATHRI02/RAMIREDDYGAYATHRI02/blob/main/Documents/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://github.com/RAMIREDDYGAYATHRI02/RAMIREDDYGAYATHRI02/blob/main/Documents/1.png" width="100px" height="100px" />
+  <img src="https://github.com/RAMIREDDYGAYATHRI02/RAMIREDDYGAYATHRI02/blob/main/Documents/3.png" width="100px" height="100px" />
+  
+
+</div><br>
+
+
+
+
 # 🎓 Education:     
 🎓 Bachelor's Degree (CSE): Sri Venkateshwara University, 2023 - 2026 , GPA: 8.5<br>       🎒 Diploma (DCME): Government Polytechnic for Women Kadapa, 2020 - 2023, GPA: 8.9<br>       📚 Class 10th: Sai Baba High School, 2020, GPA: 10<br><br>
 
