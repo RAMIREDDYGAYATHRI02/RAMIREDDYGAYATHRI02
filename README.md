@@ -7,23 +7,14 @@
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10; align='center'>
-<img src="https://github.com/RAMIREDDYGAYATHRI02/RAMIREDDYGAYATHRI02/blob/main/Documents/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://github.com/RAMIREDDYGAYATHRI02/RAMIREDDYGAYATHRI02/blob/main/Documents/Postman%20White.png" width="100px" height="100px" />
   <img src="https://github.com/RAMIREDDYGAYATHRI02/RAMIREDDYGAYATHRI02/blob/main/Documents/Hack-Web3Conf 2024 Badge (2).png" width="100px" height="100px" />
-  
-  
-  
   <img src="https://github.com/RAMIREDDYGAYATHRI02/RAMIREDDYGAYATHRI02/blob/main/Documents/1.png" width="100px" height="100px" />
   <img src="https://github.com/RAMIREDDYGAYATHRI02/RAMIREDDYGAYATHRI02/blob/main/Documents/2.png" width="100px" height="100px" />
   <img src="https://github.com/RAMIREDDYGAYATHRI02/RAMIREDDYGAYATHRI02/blob/main/Documents/3.png" width="100px" height="100px" />
   <img src="https://github.com/RAMIREDDYGAYATHRI02/RAMIREDDYGAYATHRI02/blob/main/Documents/4.png" width="100px" height="100px" />
   <img src="https://github.com/RAMIREDDYGAYATHRI02/RAMIREDDYGAYATHRI02/blob/main/Documents/5.png" width="100px" height="100px" />
-  
   <img src="https://github.com/RAMIREDDYGAYATHRI02/RAMIREDDYGAYATHRI02/blob/main/Documents/6.png" width="100px" height="100px" />
-
-  
-  
-  
-
 </div><br>
 
 
