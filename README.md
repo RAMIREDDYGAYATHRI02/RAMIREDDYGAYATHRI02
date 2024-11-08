@@ -1,4 +1,4 @@
-# Hey Everyone 👋, I'm Gayathri Rami Reddy:
+<h1 align="center">Hey Everyone <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">, I'm Gayathri Rami Reddy</h1>
 
 <p align="right"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="gayathri"></p>
 
