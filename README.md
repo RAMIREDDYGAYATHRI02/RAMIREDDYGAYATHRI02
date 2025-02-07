@@ -23,7 +23,7 @@
 
 # 🌟 Internships:
 
- 🏢<b><i style="color:gold;">Infosys Springboard: Java Developer, 2024 - Present</i></b><br>
+ 🏢<b><i style="color: gold;">Infosys Springboard: Java Developer, 2024 - Present</i></b><br>
 
    🚀 Spearheaded the development of the <b>Volunteer platform</b>, an advanced volunteer management system, showcasing expertise in crafting intuitive frontend solutions.<br>
     🌱 Embarked on backend development by delving into Java and Spring Boot, laying a strong foundation for building robust and scalable systems.<br>
