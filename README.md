@@ -2,7 +2,8 @@
 
 <p align="right"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="gayathri"></p>
 
-👨‍💻 Third-year CSE Student @ SVU  |  🌟 Intern @ Synxa IT  | 🔧 Ex-intern @ Codeon  | ☕ Soon-to-be Java Developer @ Infosys |⚡ Frontend Ninja  |  🌐 Backend Explorer |  📈Designer & Developer  |  🚀 GSSOC Contributor | 🐞 Bug Hunter | 💡 Problem-Solving Enthusiast | ❤️ 'Reset. Restart. Refocus.
+
+👨‍💻 Third-year CSE Student @ SVU | 🌟 Intern  @Infosys Springboard  & @Synxa  | 🔧 Ex-intern @Codeon | ⚡ Frontend Ninja | 🌐 Backend Explorer | 📈 Designer & Developer | 🚀 GSSOC Contributor | 🐞 Bug Hunter | 💡 Problem-Solving Enthusiast | ❤️ 'Reset. Restart. Refocus.'
 <br><br>[![](https://visitcount.itsvg.in/api?id=RAMIREDDYGAYATHRI02&icon=1&color=0)](https://visitcount.itsvg.in)<br><br>
 
 ## GSSOC(24) Badges 🪶
