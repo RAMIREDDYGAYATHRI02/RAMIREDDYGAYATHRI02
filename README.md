@@ -23,6 +23,26 @@
 
 # 🌟 Internships:
 
+ 🏢<b><i>Infosys Springboard: Java Developer, 2024 - Present</i></b><br>
+
+🚀 Spearheaded the development of the <b>Volunteer platform</b>, an advanced volunteer management system, showcasing expertise in crafting intuitive frontend solutions.<br>
+🌱 Embarked on backend development by delving into Java and Spring Boot, laying a strong foundation for building robust and scalable systems.<br>
+🔗 Engineered RESTful APIs to enable seamless data communication and integration across modules.<br>
+🛠️ Streamlined database operations with MySQL, ensuring optimal performance and reliability.<br>
+💻 Leveraged Thymeleaf to create dynamic, user-centric web pages, enhancing the overall platform experience.<br>
+
+   
+   🏢<b><i>Infosys Springboard: Java Developer, 2024 - Present</i></b><br>         
+  - Key role as a Frontend Developer in MERN stack applications.<br>
+  - Crafted seamless user experiences with React.<br>
+  - Created and managed MongoDB collections.<br>
+  - Built APIs to enhance UI functionality.<br>
+  🌟 Started my position as:<br>
+         📑 Prompt Engineer, Content Writer, SEO Keywords specialist.<br>
+         🖥️ Later worked as a Frontend Developer on different repositories.<br>
+         💼 Actively contributing to various projects and repositories.<br>
+         🎯 Embraced leadership opportunities to drive project success.<br><br>
+
    🏢<b><i>Synxa: Full Stack Developer, 2023 - Present (Almost 2 years)</i></b><br>         
   - Key role as a Frontend Developer in MERN stack applications.<br>
   - Crafted seamless user experiences with React.<br>
