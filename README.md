@@ -2,7 +2,7 @@
 
 <p align="right"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="gayathri"></p>
 
-👨‍💻  Third-year CSE Student @ SVU || MERN Stack  ||  🌟  Intern @Edunet-Aicte @Infosys Springboard  ||  🔧  Ex-intern @Codeon @Synxa @ValutOfCodes  ||  
+👨‍💻  Final-year CSE Student @ SVU || MERN Stack  ||  🌟  Intern @Edunet-Aicte @Infosys Springboard  ||  🔧  Ex-intern @Codeon @Synxa @ValutOfCodes  ||  
 ⚡  Frontend Ninja  ||  🌱  Exploring Backend (familiar with Node.js, Express, MongoDB)  ||  📈  Designer & Developer  ||  
 🚀  GSSOC Contributor  ||  🐞  Bug Hunter  ||  💡  Problem-Solving Enthusiast  ||  
 🏆  Consistently ranked first on the Coding Ninjas college leaderboard over three times  ||  ❤️  Reset. Restart. Refocus.
