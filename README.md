@@ -5,7 +5,7 @@
 👨‍💻  Final-year CSE Student @ SVU || MERN Stack  ||  🌟  Intern  @Infosys Springboard  ||  🔧  Ex-intern @Codeon @Synxa @ValutOfCodes @Edunet-Aicte ||  
 ⚡  Frontend Ninja  ||  🌱  Exploring Backend (familiar with Node.js, Express, MongoDB)  ||  📈  Designer & Developer  ||  
 🚀  GSSOC Contributor  ||  🐞  Bug Hunter  ||  💡  Problem-Solving Enthusiast  ||  
-🏆  Consistently ranked first on the Coding Ninjas college leaderboard over three times  ||  ❤️  Reset. Restart. Refocus.
+🏆  Consistently ranked first on the Coding Ninjas college leaderboard over three times  ||  ❤️ Reset. Restart. Refocus.
 
 <br>[![](https://visitcount.itsvg.in/api?id=RAMIREDDYGAYATHRI02&icon=1&color=0)](https://visitcount.itsvg.in)<br><br>
 
