@@ -1,9 +1,9 @@
 <h1 align="center">Hey Everyone <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">, I'm Gayathri Rami Reddy</h1>
 
-<p align="right"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="gayathri"></p>
+<!-- <p align="right"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="gayathri"></p> -->
 
-👨‍💻  Final-year CSE Student @ SVU || MERN Stack  ||  🌟  Intern  @Infosys Springboard  ||  🔧  Ex-intern @Codeon @Synxa @ValutOfCodes @Edunet-Aicte ||  
-⚡  Frontend Ninja  ||  🌱  Exploring Backend (familiar with Node.js, Express, MongoDB)  ||  📈  Designer & Developer  ||  
+👨‍💻  Final-year CSE Student @ SVU || 🌟  Ex-intern @Codeon @Synxa @ValutOfCodes @Edunet-Aicte @Infosys Springboard ||  
+⚡  Frontend Ninja  ||  🌱  Exploring Backend & Dsa ||  📈  Designer & Developer  ||  
 🚀  GSSOC Contributor  ||  🐞  Bug Hunter  ||  💡  Problem-Solving Enthusiast  ||  
 🏆  Consistently ranked first on the Coding Ninjas college leaderboard over three times  ||  ❤️ Reset. Restart. Refocus.
 <br>[![](https://visitcount.itsvg.in/api?id=RAMIREDDYGAYATHRI02&icon=1&color=0)](https://visitcount.itsvg.in)<br><br>
