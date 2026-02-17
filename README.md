@@ -31,7 +31,7 @@
     🌱 Embarked on backend development by delving into Java and Spring Boot, laying a strong foundation for building robust and scalable systems.<br>
     🔗 Engineered RESTful APIs to enable seamless data communication and integration across modules.<br>
     🛠️ Streamlined database operations with MySQL, ensuring optimal performance and reliability.<br>
-    💻 Leveraged Thymeleaf to create dynamic, user-centric web pages, enhancing the overall platform experience.<br><br><br>
+    💻 Leveraged Thymeleaf to create dynamic, user-centric web pages, enhancing the overall platform experience.<br><br>
 
 
    🏢<b><i style="color:gold;">Synxa: Full Stack Developer, Jan 2023 - Mar 17 2025 (Almost 3years)</i></b><br>         
@@ -43,7 +43,7 @@
          📑 Prompt Engineer, Content Writer, SEO Keywords specialist.<br>
          🖥️ Later worked as a Frontend Developer on different repositories.<br>
          💼 Actively contributing to various projects and repositories.<br>
-         🎯 Embraced leadership opportunities to drive project success.<br><br><br>
+         🎯 Embraced leadership opportunities to drive project success.<br><br>
   
   🌐 <b><i style="color:gold;">Code on: Web Developer & UI/UX Designer, Dec 2022 - June 2023 (6 months)</i></b><br>           
   - Designed and implemented user-friendly interfaces.<br> 
@@ -51,7 +51,7 @@
   - Contributed to improving site performance and accessibility.<br> 
   - Focused on creating intuitive user experiences and enhancing visual design elements.<br>
          🎖 Achieved a global rank of 500 in CSS Battle.<br>
-         🎨 Worked as a Designer & Developer on various projects using HTML, CSS, JavaScript, Bootstrap, and Figma.<br><br>
+         🎨 Worked as a Designer & Developer on various projects using HTML, CSS, JavaScript, Bootstrap, and Figma.<br>
 
 
 
