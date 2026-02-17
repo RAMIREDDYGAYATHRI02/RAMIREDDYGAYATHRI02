@@ -23,7 +23,7 @@
 
 
 # 🎓 Education:     
-🎓 Bachelor's Degree (CSE): Sri Venkateshwara University, 2023 - 2026 , GPA: 8.5<br>       🎒 Diploma (DCME): Government Polytechnic for Women Kadapa, 2020 - 2023, GPA: 8.9<br>       📚 Class 10th: Sai Baba High School, 2020, GPA: 10<br><br>
+🎓 Bachelor's Degree (CSE): Sri Venkateshwara University, 2023 - 2026 , GPA: 8.7<br>       🎒 Diploma (DCME): Government Polytechnic for Women Kadapa, 2020 - 2023, GPA: 8.9<br>       📚 Class 10th: Sai Baba High School, 2020, GPA: 10<br><br>
 
 # 🌟 Internships:
 
