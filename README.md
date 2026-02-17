@@ -2,9 +2,7 @@
 
 <!-- <p align="right"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="gayathri"></p> -->
 
-👨‍💻  Final-year CSE Student @ SVU || 🌟  Ex-intern @Codeon @Synxa @ValutOfCodes @Edunet-Aicte @Infosys Springboard ||  
-⚡  Frontend Ninja  ||  🌱  Exploring Backend & Dsa ||  📈  Designer & Developer  ||  
-🚀  GSSOC Contributor  ||  🐞  Bug Hunter  ||  💡  Problem-Solving Enthusiast  ||  
+👨‍💻 Final-year CSE Student @ SVU || 🌟 Ex-intern @Codeon @Synxa @Infosys Springboard @Edunet-Aicte @ValutOfCodes || ⚡Frontend Ninja  ||  🌱 Exploring Backend & Dsa || 📈 Designer & Developer || 🚀 GSSOC Contributor  ||  🐞  Bug Hunter  ||  💡  Problem-Solving Enthusiast  ||  
 🏆  Consistently ranked first on the Coding Ninjas college leaderboard over three times  ||  ❤️ Reset. Restart. Refocus.
 <br>[![](https://visitcount.itsvg.in/api?id=RAMIREDDYGAYATHRI02&icon=1&color=0)](https://visitcount.itsvg.in)<br><br>
 
